@@ -28,7 +28,11 @@
 #include <string.h>
 #include <stdlib.h>
 #include <stdint.h>
+#if __has_include(<endian.h>)
 #include <endian.h>
+#else
+#include "endian.h"
+#endif
 
 #include "lz4.h"
 

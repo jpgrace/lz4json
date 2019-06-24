@@ -1,0 +1,4 @@
+# ChangeLog
+
+2019-06-23 JP Grace (https://github.com/jpgrace)
+    * Added support for MacOS and autotools.

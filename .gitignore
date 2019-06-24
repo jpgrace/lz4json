@@ -1,0 +1,9 @@
+.deps/
+autom4te.cache/
+config.log
+Makefile
+configure
+lz4jsoncat
+lz4jsoncat-lz4jsoncat.o
+lz4jsoncat.dSYM/
+lz4jsoncat.o
